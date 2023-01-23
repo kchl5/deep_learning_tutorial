@@ -1,8 +1,8 @@
 name: dl2022
 channels:
+  - conda-forge
   - pytorch
   - nvidia
-  - conda-forge
   - defaults
 dependencies:
   - python=3.10.6
